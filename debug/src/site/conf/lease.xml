@@ -8,4 +8,9 @@
     <name>dt.application.Lease.operator.Writer.prop.filePath</name>
     <value>/user/chandni/lease</value>
   </property>
+
+  <property>
+    <name>dt.loggers.level</name>
+    <value>com.datatorrent.*:DEBUG,com.turtle.*:DEBUG</value>
+  </property>
 </configuration>
